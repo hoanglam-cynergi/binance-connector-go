@@ -1,8 +1,8 @@
 module github.com/hoanglam-cynergi/binance-connector-go/clients/spot
 
-go 1.23.9
+go 1.24.0
 
-toolchain go1.23.9
+toolchain go1.24.5
 
 require (
 	github.com/hoanglam-cynergi/binance-connector-go/common v1.0.1
