@@ -1,8 +1,8 @@
 package copytrading
 
 import (
-	BinanceCopyTradingRestApi "github.com/binance/binance-connector-go/clients/copytrading/src/restapi"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceCopyTradingRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/copytrading/src/restapi"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceCopyTradingClient struct {

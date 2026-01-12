@@ -13,8 +13,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/binance/binance-connector-go/clients/algo/src/restapi/models"
-	"github.com/binance/binance-connector-go/common/common"
+	"github.com/hoanglam-cynergi/binance-connector-go/clients/algo/src/restapi/models"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 // SpotAlgoAPIService SpotAlgoAPI Service

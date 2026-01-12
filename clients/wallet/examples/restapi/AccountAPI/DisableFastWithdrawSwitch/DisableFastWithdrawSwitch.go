@@ -4,8 +4,8 @@ import (
 	"context"
 	"log"
 
-	client "github.com/binance/binance-connector-go/clients/wallet"
-	"github.com/binance/binance-connector-go/common/common"
+	client "github.com/hoanglam-cynergi/binance-connector-go/clients/wallet"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 func main() {

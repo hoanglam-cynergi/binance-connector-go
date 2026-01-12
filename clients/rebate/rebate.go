@@ -1,8 +1,8 @@
 package rebate
 
 import (
-	BinanceRebateRestApi "github.com/binance/binance-connector-go/clients/rebate/src/restapi"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceRebateRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/rebate/src/restapi"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceRebateClient struct {

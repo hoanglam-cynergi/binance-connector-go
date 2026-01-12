@@ -1,8 +1,8 @@
 package pay
 
 import (
-	BinancePayRestApi "github.com/binance/binance-connector-go/clients/pay/src/restapi"
-	"github.com/binance/binance-connector-go/common/common"
+	BinancePayRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/pay/src/restapi"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinancePayClient struct {

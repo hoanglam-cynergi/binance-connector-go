@@ -1,10 +1,10 @@
 package spot
 
 import (
-	BinanceSpotRestApi "github.com/binance/binance-connector-go/clients/spot/src/restapi"
-	BinanceSpotWebsocketApi "github.com/binance/binance-connector-go/clients/spot/src/websocketapi"
-	BinanceSpotWebsocketStreams "github.com/binance/binance-connector-go/clients/spot/src/websocketstreams"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceSpotRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/spot/src/restapi"
+	BinanceSpotWebsocketApi "github.com/hoanglam-cynergi/binance-connector-go/clients/spot/src/websocketapi"
+	BinanceSpotWebsocketStreams "github.com/hoanglam-cynergi/binance-connector-go/clients/spot/src/websocketstreams"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceSpotClient struct {

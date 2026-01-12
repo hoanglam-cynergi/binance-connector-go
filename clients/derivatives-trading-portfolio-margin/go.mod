@@ -1,11 +1,11 @@
-module github.com/binance/binance-connector-go/clients/derivativestradingportfoliomargin
+module github.com/hoanglam-cynergi/binance-connector-go/clients/derivativestradingportfoliomargin
 
 go 1.24.0
 
 toolchain go1.24.11
 
 require (
-	github.com/binance/binance-connector-go/common v1.0.1
+	github.com/hoanglam-cynergi/binance-connector-go/common v1.0.1
 	github.com/stretchr/testify v1.11.1
 )
 

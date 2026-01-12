@@ -12,7 +12,7 @@ import (
 	"log"
 	"runtime"
 
-	"github.com/binance/binance-connector-go/common/common"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 // WebsocketAPIClient manages communication with the Binance Binance Derivatives Trading USDS Futures WebSocket API WebSocketAPI v1.0.0

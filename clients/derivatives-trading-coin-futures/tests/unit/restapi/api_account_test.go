@@ -15,9 +15,9 @@ import (
 	"reflect"
 	"testing"
 
-	client "github.com/binance/binance-connector-go/clients/derivativestradingcoinfutures"
-	"github.com/binance/binance-connector-go/clients/derivativestradingcoinfutures/src/restapi/models"
-	"github.com/binance/binance-connector-go/common/common"
+	client "github.com/hoanglam-cynergi/binance-connector-go/clients/derivativestradingcoinfutures"
+	"github.com/hoanglam-cynergi/binance-connector-go/clients/derivativestradingcoinfutures/src/restapi/models"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 	"github.com/stretchr/testify/require"
 )
 

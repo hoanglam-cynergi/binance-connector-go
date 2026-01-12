@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
-	client "github.com/binance/binance-connector-go/clients/spot"
-	"github.com/binance/binance-connector-go/clients/spot/src/websocketstreams/models"
-	"github.com/binance/binance-connector-go/common/common"
-	tests "github.com/binance/binance-connector-go/common/tests"
+	client "github.com/hoanglam-cynergi/binance-connector-go/clients/spot"
+	"github.com/hoanglam-cynergi/binance-connector-go/clients/spot/src/websocketstreams/models"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
+	tests "github.com/hoanglam-cynergi/binance-connector-go/common/tests"
 	"github.com/stretchr/testify/require"
 )
 

@@ -11,8 +11,8 @@ package binancederivativestradingusdsfutureswebsocketstreams
 import (
 	"strconv"
 
-	"github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures/src/websocketstreams/models"
-	"github.com/binance/binance-connector-go/common/common"
+	"github.com/hoanglam-cynergi/binance-connector-go/clients/derivativestradingusdsfutures/src/websocketstreams/models"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 // WebsocketMarketStreamsAPIService WebsocketMarketStreamsAPI Service

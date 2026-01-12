@@ -1,8 +1,8 @@
 package algo
 
 import (
-	BinanceAlgoRestApi "github.com/binance/binance-connector-go/clients/algo/src/restapi"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceAlgoRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/algo/src/restapi"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceAlgoClient struct {

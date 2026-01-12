@@ -13,8 +13,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/binance/binance-connector-go/clients/fiat/src/restapi/models"
-	"github.com/binance/binance-connector-go/common/common"
+	"github.com/hoanglam-cynergi/binance-connector-go/clients/fiat/src/restapi/models"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 // FiatAPIService FiatAPI Service

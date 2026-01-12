@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"log"
 
-	client "github.com/binance/binance-connector-go/clients/convert"
-	"github.com/binance/binance-connector-go/common/common"
+	client "github.com/hoanglam-cynergi/binance-connector-go/clients/convert"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 func main() {

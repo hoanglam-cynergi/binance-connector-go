@@ -1,8 +1,8 @@
 package convert
 
 import (
-	BinanceConvertRestApi "github.com/binance/binance-connector-go/clients/convert/src/restapi"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceConvertRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/convert/src/restapi"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceConvertClient struct {

@@ -13,7 +13,7 @@ import (
 	"net/url"
 	"runtime"
 
-	"github.com/binance/binance-connector-go/common/common"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 // RestAPIClient manages communication with the Binance Margin Trading REST API API v1.0.0

@@ -9,8 +9,8 @@ API version: 1.0.0
 package binancespotwebsocketapi
 
 import (
-	"github.com/binance/binance-connector-go/clients/spot/src/websocketapi/models"
-	"github.com/binance/binance-connector-go/common/common"
+	"github.com/hoanglam-cynergi/binance-connector-go/clients/spot/src/websocketapi/models"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 // AuthAPIService AuthAPI Service

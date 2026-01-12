@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"log"
 
-	client "github.com/binance/binance-connector-go/clients/spot"
-	"github.com/binance/binance-connector-go/clients/spot/src/websocketapi/models"
-	"github.com/binance/binance-connector-go/common/common"
+	client "github.com/hoanglam-cynergi/binance-connector-go/clients/spot"
+	"github.com/hoanglam-cynergi/binance-connector-go/clients/spot/src/websocketapi/models"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 func main() {

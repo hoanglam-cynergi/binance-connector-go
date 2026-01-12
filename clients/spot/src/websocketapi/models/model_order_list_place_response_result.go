@@ -11,7 +11,7 @@ package models
 import (
 	"encoding/json"
 
-	"github.com/binance/binance-connector-go/common/common"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 // checks if the OrderListPlaceResponseResult type satisfies the MappedNullable interface at compile time

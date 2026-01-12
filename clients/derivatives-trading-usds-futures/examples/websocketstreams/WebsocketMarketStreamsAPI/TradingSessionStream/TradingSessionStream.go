@@ -5,9 +5,9 @@ import (
 	"log"
 	"time"
 
-	client "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
-	"github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures/src/websocketstreams/models"
-	"github.com/binance/binance-connector-go/common/common"
+	client "github.com/hoanglam-cynergi/binance-connector-go/clients/derivativestradingusdsfutures"
+	"github.com/hoanglam-cynergi/binance-connector-go/clients/derivativestradingusdsfutures/src/websocketstreams/models"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 func main() {

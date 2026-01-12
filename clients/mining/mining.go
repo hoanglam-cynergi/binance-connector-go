@@ -1,8 +1,8 @@
 package mining
 
 import (
-	BinanceMiningRestApi "github.com/binance/binance-connector-go/clients/mining/src/restapi"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceMiningRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/mining/src/restapi"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceMiningClient struct {

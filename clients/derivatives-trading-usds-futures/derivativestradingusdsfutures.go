@@ -1,10 +1,10 @@
 package derivativestradingusdsfutures
 
 import (
-	BinanceDerivativesTradingUsdsFuturesRestApi "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures/src/restapi"
-	BinanceDerivativesTradingUsdsFuturesWebsocketApi "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures/src/websocketapi"
-	BinanceDerivativesTradingUsdsFuturesWebsocketStreams "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures/src/websocketstreams"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceDerivativesTradingUsdsFuturesRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/derivativestradingusdsfutures/src/restapi"
+	BinanceDerivativesTradingUsdsFuturesWebsocketApi "github.com/hoanglam-cynergi/binance-connector-go/clients/derivativestradingusdsfutures/src/websocketapi"
+	BinanceDerivativesTradingUsdsFuturesWebsocketStreams "github.com/hoanglam-cynergi/binance-connector-go/clients/derivativestradingusdsfutures/src/websocketstreams"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceDerivativesTradingUsdsFuturesClient struct {

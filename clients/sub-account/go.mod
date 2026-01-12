@@ -1,11 +1,11 @@
-module github.com/binance/binance-connector-go/clients/subaccount
+module github.com/hoanglam-cynergi/binance-connector-go/clients/subaccount
 
-go 1.24.0
+go 1.23.9
 
-toolchain go1.24.11
+toolchain go1.23.9
 
 require (
-	github.com/binance/binance-connector-go/common v1.0.1
+	github.com/hoanglam-cynergi/binance-connector-go/common v1.0.1
 	github.com/stretchr/testify v1.11.1
 )
 

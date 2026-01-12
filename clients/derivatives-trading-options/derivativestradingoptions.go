@@ -1,9 +1,9 @@
 package derivativestradingoptions
 
 import (
-	BinanceDerivativesTradingOptionsRestApi "github.com/binance/binance-connector-go/clients/derivativestradingoptions/src/restapi"
-	BinanceDerivativesTradingOptionsWebsocketStreams "github.com/binance/binance-connector-go/clients/derivativestradingoptions/src/websocketstreams"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceDerivativesTradingOptionsRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/derivativestradingoptions/src/restapi"
+	BinanceDerivativesTradingOptionsWebsocketStreams "github.com/hoanglam-cynergi/binance-connector-go/clients/derivativestradingoptions/src/websocketstreams"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceDerivativesTradingOptionsClient struct {

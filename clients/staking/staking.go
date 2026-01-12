@@ -1,8 +1,8 @@
 package staking
 
 import (
-	BinanceStakingRestApi "github.com/binance/binance-connector-go/clients/staking/src/restapi"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceStakingRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/staking/src/restapi"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceStakingClient struct {

@@ -12,7 +12,7 @@ import (
 	"log"
 	"runtime"
 
-	"github.com/binance/binance-connector-go/common/common"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 // WebsocketStreamsClient manages communication with the Binance Binance Spot WebSocket Streams WebSocket Streams v1.0.0

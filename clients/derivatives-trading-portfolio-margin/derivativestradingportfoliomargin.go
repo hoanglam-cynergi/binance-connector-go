@@ -1,9 +1,9 @@
 package derivativestradingportfoliomargin
 
 import (
-	BinanceDerivativesTradingPortfolioMarginRestApi "github.com/binance/binance-connector-go/clients/derivativestradingportfoliomargin/src/restapi"
-	BinanceDerivativesTradingPortfolioMarginWebsocketStreams "github.com/binance/binance-connector-go/clients/derivativestradingportfoliomargin/src/websocketstreams"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceDerivativesTradingPortfolioMarginRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/derivativestradingportfoliomargin/src/restapi"
+	BinanceDerivativesTradingPortfolioMarginWebsocketStreams "github.com/hoanglam-cynergi/binance-connector-go/clients/derivativestradingportfoliomargin/src/websocketstreams"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceDerivativesTradingPortfolioMarginClient struct {

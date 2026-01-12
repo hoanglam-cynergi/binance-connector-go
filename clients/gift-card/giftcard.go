@@ -1,8 +1,8 @@
 package giftcard
 
 import (
-	BinanceGiftCardRestApi "github.com/binance/binance-connector-go/clients/giftcard/src/restapi"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceGiftCardRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/giftcard/src/restapi"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceGiftCardClient struct {

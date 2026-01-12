@@ -1,8 +1,8 @@
 package cryptoloan
 
 import (
-	BinanceCryptoLoanRestApi "github.com/binance/binance-connector-go/clients/cryptoloan/src/restapi"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceCryptoLoanRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/cryptoloan/src/restapi"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceCryptoLoanClient struct {

@@ -1,8 +1,8 @@
 package simpleearn
 
 import (
-	BinanceSimpleEarnRestApi "github.com/binance/binance-connector-go/clients/simpleearn/src/restapi"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceSimpleEarnRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/simpleearn/src/restapi"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceSimpleEarnClient struct {

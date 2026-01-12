@@ -6,10 +6,10 @@ import (
 	"strings"
 	"testing"
 
-	client "github.com/binance/binance-connector-go/clients/spot"
-	"github.com/binance/binance-connector-go/clients/spot/src/websocketapi/models"
-	"github.com/binance/binance-connector-go/common/common"
-	tests "github.com/binance/binance-connector-go/common/tests"
+	client "github.com/hoanglam-cynergi/binance-connector-go/clients/spot"
+	"github.com/hoanglam-cynergi/binance-connector-go/clients/spot/src/websocketapi/models"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
+	tests "github.com/hoanglam-cynergi/binance-connector-go/common/tests"
 	"github.com/stretchr/testify/require"
 )
 

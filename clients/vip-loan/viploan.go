@@ -1,8 +1,8 @@
 package viploan
 
 import (
-	BinanceVipLoanRestApi "github.com/binance/binance-connector-go/clients/viploan/src/restapi"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceVipLoanRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/viploan/src/restapi"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceVipLoanClient struct {

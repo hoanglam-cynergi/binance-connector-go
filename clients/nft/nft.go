@@ -1,8 +1,8 @@
 package nft
 
 import (
-	BinanceNFTRestApi "github.com/binance/binance-connector-go/clients/nft/src/restapi"
-	"github.com/binance/binance-connector-go/common/common"
+	BinanceNFTRestApi "github.com/hoanglam-cynergi/binance-connector-go/clients/nft/src/restapi"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 type BinanceNFTClient struct {

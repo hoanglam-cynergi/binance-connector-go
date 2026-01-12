@@ -12,8 +12,8 @@ import (
 	"log"
 	"runtime"
 
-	"github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures/src/websocketstreams/models"
-	"github.com/binance/binance-connector-go/common/common"
+	"github.com/hoanglam-cynergi/binance-connector-go/clients/derivativestradingusdsfutures/src/websocketstreams/models"
+	"github.com/hoanglam-cynergi/binance-connector-go/common/common"
 )
 
 // WebsocketStreamsClient manages communication with the Binance Binance Derivatives Trading USDS Futures WebSocket Market Streams WebSocket Streams v1.0.0
